@@ -9,7 +9,7 @@ My name is Bruno Bulnes and I'm a front-end developer.
 ⚡ Fun fact: I'm crazy web performance guy.
 
 ### Skills 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between">
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
