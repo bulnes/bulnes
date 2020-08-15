@@ -39,10 +39,7 @@ My name is Bruno Bulnes and I'm a front-end developer.
 </a>
 </div>  
 
-### Latest blog posts
+### 📕 Latest Blog Posts
 
-1. [Resenha: No Sufoco — Chuck Palahniuk](https://bulnes.github.io/no-sufoco.html)
-1. [Resenha: Advogado do Diabo — Andrew Neiderman](https://bulnes.github.io/advogado-do-diabo.html)
-1. [Resenha: Comer, rezar, amar — Elizabeth Gilbert](https://bulnes.github.io/comer-rezar-amar.html)
-1. [Resenha: A Megera Domada — William Shakespeare](https://bulnes.github.io/a-megera-domada.html)
-1. [Resenha: Depois de você — Jojo Moyes](https://bulnes.github.io/depois-de-voce.html)
+<!-- BLOG:START -->
+<!-- BLOG:END -->
